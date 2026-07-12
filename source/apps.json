@@ -1,0 +1,18 @@
+{
+  "name": "Kommando",
+  "identifier": "com.nicolas.kommando.source",
+  "subtitle": "Dein Server in der Hand",
+  "apps": [
+    {
+      "name": "Kommando",
+      "bundleIdentifier": "com.nicolas.NAS",
+      "developerName": "Kinetik",
+      "version": "1.0",
+      "versionDate": "2026-07-12",
+      "downloadURL": "https://github.com/nicolasjankovich-netizen/kommando/raw/main/install/Kommando.ipa",
+      "localizedDescription": "Kommando: Steuerzentrale fuer den Heimserver. Speicher, Container, VMs, Freigaben, Home Assistant (Licht/Klima/Sensoren mit Verlauf), Minecraft, KI-Chat — alles im Kinekt-Look. Face-ID-geschuetzte kritische Aktionen.",
+      "iconURL": "https://raw.githubusercontent.com/nicolasjankovich-netizen/kommando/main/icon.png",
+      "size": 1965269
+    }
+  ]
+}
